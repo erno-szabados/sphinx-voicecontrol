@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar room_commands;
+
+public <command> = KITCHEN | LIVING ROOM | BEDROOM | EXIT;
