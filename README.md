@@ -5,6 +5,7 @@ A speech recognition system that responds to voice commands for different rooms 
 ## Overview
 
 This project implements a simple voice command system that can recognize room names (Living Room, Kitchen, Bedroom) and an exit command. When a command is recognized, the system responds with a text-to-speech confirmation using Flite.
+While these components are miles away from SOTA, they have very little resource demand.
 
 ## Requirements
 
